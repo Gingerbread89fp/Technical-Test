@@ -1,4 +1,4 @@
-# BookingGo Technical Test
+# Technical Test
 
 
 ## Setup
