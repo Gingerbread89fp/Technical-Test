@@ -21,10 +21,16 @@ Run the Controller class and follow the instruction displayed on console:
 
 Enter pickup latitude > 
 Enter pickup longitude > 
-Enter dfrop-off latitude and drop-off longitude
+Enter drop-off latitude and drop-off longitude
 
 
 ## Part 2
 
 ### REST API
-`Specify how to start the API and provide a sample request`
+Run the ServeController class
+
+Open the browser and enter localhost:8005/techtest
+
+The page will present a simple input area for pickup and dropoff
+
+Once the search is submitted the output will be displayed just below it 
