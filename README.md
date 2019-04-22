@@ -2,7 +2,7 @@
 
 
 ## Setup
-```
+
 The code has been created in Java using Eclipse Version: Oxygen.3a Release (4.7.3a)
 The .zip file contains the whole Eclipse project folder,subfolders and libraries necessary.
 
@@ -14,7 +14,6 @@ The code is made of 6 classes.
   4. ServerController class will create a server with jetty on port 8005
   5. ServletHome class will take care of displaying the results on a web front-end
   6. ServletApi class is meant to display the results in JSON format but not fully implemented yet.
-```
 
 ## Part 1
 
