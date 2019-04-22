@@ -4,7 +4,7 @@
 ## Setup
 ```
 The code has been created in Java using Eclipse Version: Oxygen.3a Release (4.7.3a)
-The .zip file contains the whole Eclipse project folder and subfolders.
+The .zip file contains the whole Eclipse project folder,subfolders and libraries necessary.
 
 The code is made of 6 classes.
   1. Driver class containing all the information related to each taxi.
